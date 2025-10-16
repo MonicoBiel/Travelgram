@@ -4,6 +4,6 @@
   <li>HTML</li>
   <li>CSS</li>
 </ul>
-<p>Projeto realizado com teacher Mayke Brito - Rocketseat</p>
+<p>Projeto realizado com prof Mayke Brito - Rocketseat</p>
 
 <footer>Baseado em Figma</footer>
