@@ -7,3 +7,7 @@
 <p>Projeto realizado com prof Mayke Brito - Rocketseat</p>
 
 <footer>Baseado em Figma</footer>
+
+h1 {
+background-color: blue;
+}
